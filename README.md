@@ -1,4 +1,4 @@
-# Enhance_Video_Presentations
+# V-SLOPE: Video Speech and Linguistic Optimization for Presentation Enhancement
 
 Folder Introduction:
   - Original Videos: Input videos
